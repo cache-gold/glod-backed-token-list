@@ -1,0 +1,46 @@
+{
+  "name": "Gold-backed Token List",
+  "logoURI": "https://raw.githubusercontent.com/cache-gold/glod-backed-token-list/main/gold_token_logo.png",
+  "timestamp": "2020-10-24T10:15:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["gold", "gold tokens", "gold-backed tokens", "gold token list"],
+  "tokens": [
+    {
+      "address": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+      "chainId": 1,
+      "name": "CACHE Gold",
+      "logoURI": "https://raw.githubusercontent.com/cache-gold/glod-backed-token-list/main/CGT_logo.png",
+      "symbol": "CGT",
+      "decimals": 8
+    },
+    {
+      "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+      "chainId": 1,
+      "name": "Digix Gold Token",
+      "logoURI": "https://github.com/cache-gold/glod-backed-token-list/blob/main/DGX_logo.png",
+      "symbol": "DGX",
+      "decimals": 9
+    },
+   {
+      "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+      "chainId": 1,
+      "name": "PAX Gold",
+      "logoURI": "https://raw.githubusercontent.com/cache-gold/glod-backed-token-list/main/PAXG_logo.png",
+      "symbol": "PAXG",
+      "decimals": 6
+    }, 
+    
+   {
+      "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
+      "chainId": 1,
+      "name": "Tether Gold",
+      "logoURI": "https://raw.githubusercontent.com/cache-gold/glod-backed-token-list/main/XAUT_logo.png",
+      "symbol": "XAUT",
+      "decimals": 6
+    } 
+  ]
+}
